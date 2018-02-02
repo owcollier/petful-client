@@ -1,4 +1,3 @@
-import React from 'react';
 import {API_BASE_URL} from '../config';
 
 export const FETCH_DOG_REQUEST = 'FETCH_DOG_REQUEST';
@@ -49,7 +48,7 @@ export const fetchDog = () => dispatch => {
   });
 };
 
-export const removeDog = () => dispatch => {
+export const adoptDog = () => dispatch => {
   dispatch(deleteDogRequest());
   return fetch(`${API_BASE_URL}/dog`, {
     method: `DELETE`
