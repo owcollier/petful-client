@@ -1,10 +1,10 @@
-import {
-  FETCH_DOG_REQUEST,
-  FETCH_DOG_SUCCESS,
-  FETCH_DOG_ERROR,
-  DELETE_DOG_REQUEST,
-  DELETE_DOG_ERROR
-  } from '../actions/dog';
+// import {
+//   FETCH_DOG_REQUEST,
+//   FETCH_DOG_SUCCESS,
+//   FETCH_DOG_ERROR,
+//   DELETE_DOG_REQUEST,
+//   DELETE_DOG_ERROR
+//   } from '../actions/dog';
 
 const initialState = {
   data: null,

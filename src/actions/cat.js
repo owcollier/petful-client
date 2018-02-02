@@ -1,4 +1,3 @@
-import React from 'react';
 import {API_BASE_URL} from '../config';
 
 export const FETCH_CAT_REQUEST = 'FETCH_CAT_REQUEST';

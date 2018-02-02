@@ -1,6 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import { Provider } from 'react-redux';
 import Dashboard from './components/Dashboard';
 
-ReactDOM.render(<Dashboard/>, document.getElementById('root'));
+import store from './store';
+
+import './index.css';
+
+ReactDOM.render(
+<Provider store={store}>
+  <Dashboard />
+</Provider>,
+ document.getElementById('root'));

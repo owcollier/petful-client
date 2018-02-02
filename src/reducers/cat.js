@@ -1,10 +1,10 @@
-import {
-  FETCH_CAT_REQUEST,
-  FETCH_CAT_SUCCESS,
-  FETCH_CAT_ERROR,
-  DELETE_CAT_REQUEST,
-  DELETE_CAT_ERROR
-  } from '../actions/cat';
+// import {
+//   FETCH_CAT_REQUEST,
+//   FETCH_CAT_SUCCESS,
+//   FETCH_CAT_ERROR,
+//   DELETE_CAT_REQUEST,
+//   DELETE_CAT_ERROR
+//   } from '../actions/cat';
 
 const initialState = {
   data: null,
