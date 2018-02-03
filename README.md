@@ -1,6 +1,6 @@
 # Petful
 
--Client for the Petful app, whose server repo is located [here](https://github.com/owcollier/petful-client)
+-Client for the Petful app, whose server repo is located [here](https://github.com/owcollier/petful-server)
 
 -Working example of the client deployed on [Netlify](https://wonderful-nightingale-981bcd.netlify.com/)
 
