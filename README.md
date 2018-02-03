@@ -2,7 +2,7 @@
 
 -Client for the Petful app, whose server repo is located [here](https://github.com/owcollier/petful-client)
 
--Working example of the client deployed on [Netlify](https://github.com/owcollier/petful-server)
+-Working example of the client deployed on [Netlify](https://wonderful-nightingale-981bcd.netlify.com/)
 
 Petful makes pet adoption easy & fair by providing the user with choices for pet adoption based on which animals have been at the local shelter or rescue the longest. The pets displayed for adoption selection will always be the animals who have been waiting the longest for a new, loving family or owner.
 
